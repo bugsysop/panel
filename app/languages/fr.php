@@ -82,6 +82,9 @@ return array(
     'pages.show.error.permissions.title' => 'La page n’est pas accessible en écriture',
     'pages.show.error.permissions.text'  => 'Merci de vérifier les permissions pour le répertoire "/content" et ses fichiers.',
     'pages.show.error.permissions.retry'  => 'Essayer de nouveau',
+    'pages.show.error.notitle.title' => 'Le blueprint n’a pas de champs titre',
+    'pages.show.error.notitle.text' => 'Veuillez ajouter un champs titre et essayer de nouveau',
+    'pages.show.error.notitle.retry' => 'Essayer de nouveau',
     'pages.show.error.form'  => 'Merci de remplir correctement l’ensemble des champs',
 
     'pages.add.title.label' => 'Ajouter une nouvelle page',
